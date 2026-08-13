@@ -1,6 +1,6 @@
 # DavenportConstantDB
 
-This is a database of Davenport constants for abelian groups of order up to 500, by Jessica Han (jjhan@colgate.edu) and Jacob Mayle (mayle@udel.edu).
+This is a database of [Davenport constants](https://en.wikipedia.org/wiki/Davenport_constant) for abelian groups of order up to 500, by Jessica Han (jjhan@colgate.edu) and Jacob Mayle (mayle@udel.edu).
 
 The data for abelian groups comes from the [Abstract groups](https://www.lmfdb.org/Groups/Abstract/) database in the LMFDB. In particular, the labeling scheme is that of the Small Groups Library, as explained [here](https://www.lmfdb.org/Groups/Abstract/Labels).
 
